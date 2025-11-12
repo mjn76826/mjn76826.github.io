@@ -7,10 +7,22 @@ h1 {
 color: wheat;
 text-align: center;
 }
+
 h2 {
 color: wheat;
 }
 p {
 color: gold;
 width: 33%;
+}
+
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; } /* condensed to save space */
+.project {
+ width: 30%;
+ margin: 10px;
+ padding: 20px 10px;
+ background: gold; /* pick a color */
+ border-radius: 25%;
 }
