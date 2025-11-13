@@ -19,7 +19,6 @@ color: wheat;
 <!-- might be worthless rn-->
 p {
 color: rgb(115, 255, 0);
-width: 50%;
 }
 <!--^^-->
 h3 {
@@ -29,6 +28,7 @@ width: 30%;
 
 .projects h3{
 color: yellow
+width: 33%
 }
 .projects p{
 color: blue;
