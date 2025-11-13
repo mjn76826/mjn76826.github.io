@@ -12,11 +12,12 @@ h2 {
 color: wheat;
 }
 p {
-color: pink;
+color: rgb(115, 255, 0);
 width: 50%;
 }
 
 h3 {
+color: aqua;
 width: 99%;
 }
 
