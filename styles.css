@@ -35,3 +35,7 @@ border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
 }
+
+h3 {
+width: 30%;
+}
