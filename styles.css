@@ -16,17 +16,20 @@ h2 {
 color: wheat;
 }
 
-
+<!-- might be worthless rn-->
 p {
 color: rgb(115, 255, 0);
 width: 50%;
 }
-
+<!--^^-->
 h3 {
 color: aqua;
 width: 99%;
 }
 
+.projects h3{
+color: yellow
+}
 .projects { 
     display:flex; 
     flex-wrap:wrap; } /* condensed to save space */
