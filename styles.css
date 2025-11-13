@@ -16,6 +16,10 @@ color: pink;
 width: 50%;
 }
 
+h3 {
+width: 99%;
+}
+
 .projects { 
     display:flex; 
     flex-wrap:wrap; } /* condensed to save space */
@@ -34,8 +38,4 @@ margin: 10px;
 border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
-}
-
-h3 {
-width: 3%;
 }
