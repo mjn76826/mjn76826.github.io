@@ -1,16 +1,22 @@
 
+<!-- body-->
+
 body {
 background:white;
 font-family: 'Times New Roman', Times, serif;
 }
+
+<!--Title-->
 h1 {
 color: wheat;
 text-align: center;
 }
-
+<!--Headings-->
 h2 {
 color: wheat;
 }
+
+
 p {
 color: rgb(115, 255, 0);
 width: 50%;
@@ -32,6 +38,7 @@ width: 99%;
  border-radius: 25%;
 }
 
+<!--Image boarders-->
 .project img{
 width: 300px;
 height: 300px;
