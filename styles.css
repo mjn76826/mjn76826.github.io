@@ -30,6 +30,9 @@ width: 99%;
 .projects h3{
 color: yellow
 }
+.projects p{
+color: blue;
+}
 .projects { 
     display:flex; 
     flex-wrap:wrap; } /* condensed to save space */
