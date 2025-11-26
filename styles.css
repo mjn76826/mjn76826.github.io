@@ -46,8 +46,8 @@ color: blue;
 
 <!--Image boarders-->
 .project img{
-width: 100%;
-height: auto;
+width: 85%;
+height: 65%;
 max-width: 100%;
 border: 2px solid black;
 display: block;
