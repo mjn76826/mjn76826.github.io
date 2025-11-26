@@ -46,10 +46,10 @@ color: blue;
 
 <!--Image boarders-->
 .project img{
-width: 300px;
-height: 300px;
-margin: 10px;
-border: 2px solid rgb(126, 14, 201); /* choose a color */
+width: 100%;
+height: auto;
+max-width: 100%;
+border: 2px solid black;
 display: block;
 margin: auto;
 }
