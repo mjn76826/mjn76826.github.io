@@ -13,3 +13,25 @@ color: #6f7bfc;
   border-radius: 12px;
   max-width: 33%;
 }
+.Affinity Diagram {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.Affinity Diagram img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+.StoryBoard {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.StoryBoard img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
