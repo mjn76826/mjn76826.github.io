@@ -16,7 +16,7 @@ color: #3bff45;
   background: rgba(255, 255, 255, 0.08);
   padding: 16px;
   border-radius: 12px;
-  max-width: 33%;
+  width: 48%;
 }
 .mission-statement {
     background: rgba(250, 0, 0, 0.08);
