@@ -26,16 +26,29 @@ color: #3bff45;
     border-radius: 12px;
     width: 45%;
 }
+.middle-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
 .Affinity Diagram {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
+    width: 45%;
 }
 
 .Affinity Diagram img {
     width: 250px;
     height: auto;
     border-radius: 10px;
+    width: 45%;
+}
+.Self Photo img {
+ width: 250px;
+    height: auto;
+    border-radius: 10px;
+    width: 45%;
 }
 .StoryBoard {
     display: flex;
