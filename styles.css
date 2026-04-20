@@ -13,13 +13,13 @@ color: #3bff45;
     gap: 20px;
 }
 .problem-statement {
-  background: rgba(4, 235, 158, 0.08);
+  background: #e40a0a;
   padding: 16px;
   border-radius: 12px;
   width: 48%;
 }
 .mission-statement {
-    background: rgba(250, 0, 0, 0.08);
+    background: #ff466e;
     padding: 16px;
     border-radius: 12px;
     width: 48%;
