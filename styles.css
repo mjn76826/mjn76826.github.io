@@ -24,6 +24,7 @@ color: #3bff45;
     border-radius: 12px;
     width: 48%;
     margin-left: auto;
+    flex-wrap: wrap;
 }
 .Affinity Diagram {
     display: flex;
