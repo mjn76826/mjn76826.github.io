@@ -31,24 +31,16 @@ color: #3bff45;
     justify-content: space-between;
     gap: 20px;
 }
-.Affinity Diagram {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-    width: 45%;
+
+.affinity,
+.self-photo {
+    width: 48%;
 }
 
-.Affinity Diagram img {
-    width: 250px;
+.photo-gallery img {
+    width: 100%;
     height: auto;
     border-radius: 10px;
-    width: 45%;
-}
-.Self Photo img {
- width: 250px;
-    height: auto;
-    border-radius: 10px;
-    width: 45%;
 }
 .StoryBoard {
     display: flex;
