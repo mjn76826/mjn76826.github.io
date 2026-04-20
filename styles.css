@@ -17,6 +17,7 @@ color: #3bff45;
   padding: 16px;
   border-radius: 12px;
   width: 48%;
+  display: flex;
 }
 .mission-statement {
     background: #ff466e;
@@ -25,6 +26,7 @@ color: #3bff45;
     width: 48%;
     margin-left: auto;
     flex-wrap: wrap;
+    display: flex;
 }
 .Affinity Diagram {
     display: flex;
