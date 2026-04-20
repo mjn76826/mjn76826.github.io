@@ -7,6 +7,11 @@ h1 {
 text-align: center;
 color: #3bff45;
 }
+.top-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
 .problem-statement {
   background: rgba(255, 255, 255, 0.08);
   padding: 16px;
