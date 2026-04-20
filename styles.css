@@ -12,21 +12,19 @@ color: #3bff45;
     justify-content: space-between;
     gap: 20px;
 }
+
 .problem-statement {
   background: #e40a0a;
   padding: 16px;
   border-radius: 12px;
   width: 48%;
-  display: flex;
 }
+
 .mission-statement {
     background: #ff466e;
     padding: 16px;
     border-radius: 12px;
     width: 48%;
-    margin-left: auto;
-    flex-wrap: wrap;
-    display: flex;
 }
 .Affinity Diagram {
     display: flex;
