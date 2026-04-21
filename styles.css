@@ -59,6 +59,7 @@ color: #3bff45;
 
 .StoryBoard img {
     width: 100%;
-    height: auto;
     border-radius: 10px;
+     height: 300px;          /* adjust this */
+    object-fit: cover;      /* keeps it looking good */
 }
