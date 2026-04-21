@@ -54,6 +54,7 @@ color: #3bff45;
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
+    width:100%;
 }
 
 .StoryBoard img {
