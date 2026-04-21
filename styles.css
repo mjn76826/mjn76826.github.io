@@ -30,17 +30,16 @@ color: #3bff45;
     display: flex;
     gap: 20px;
 }
+
 .left-column {
     width: 50%;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; /* THIS stacks them */
     gap: 20px;
 }
 
-.affinity,
 .self-photo {
-    width: 48%;
-    height: auto;
+    width: 50%;
 }
 
 .photo-gallery img {
