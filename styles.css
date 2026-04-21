@@ -37,7 +37,10 @@ color: #3bff45;
     flex-direction: column; /* THIS stacks them */
     gap: 20px;
 }
-
+.affinity img {
+    width: 48%;
+    height: auto;
+}
 .self-photo {
     width: 50%;
 }
