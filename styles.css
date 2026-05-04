@@ -50,16 +50,40 @@ color: #f8f8f8;
     height: auto;
     border-radius: 10px;
 }
+.resume-section {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.resume-section h2,
+.storyboard-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.resume-img {
+    width: 100%;
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.storyboard-section {
+    width: 100%;
+    margin-top: 40px;
+}
+
 .StoryBoard {
     display: flex;
     gap: 15px;
-    flex-wrap: wrap;
-    width:100%;
+    width: 100%;
 }
 
 .StoryBoard img {
-    width: 100px;
+    flex: 1;
+    width: 100%;
+    height: 250px;
     border-radius: 10px;
-     height: 100px;          
-    object-fit: cover;      
+    object-fit: cover;
 }
